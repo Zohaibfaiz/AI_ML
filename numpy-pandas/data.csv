@@ -1,0 +1,16 @@
+Employee_ID,Name,Age,Department,City,Salary,Experience,Performance
+1001,Jai,25,IT,Delhi,50000,2,Excellent
+1002,Princi,28,HR,Kanpur,45000,4,Good
+1003,Gaurav,30,Finance,Allahabad,60000,6,Excellent
+1004,Anuj,,IT,Kannauj,52000,3,Good
+1005,Riya,26,HR,Delhi,,2,Average
+1006,Aman,29,,Lucknow,58000,5,Excellent
+1007,Pooja,31,Finance,,62000,7,Excellent
+1008,Rohit,24,IT,Noida,48000,,Good
+1009,Neha,27,Marketing,Gurgaon,55000,3,
+1010,Karan,35,Marketing,Delhi,70000,10,Excellent
+1011,Simran,,HR,Chandigarh,46000,4,Average
+1012,Arjun,32,Finance,Lucknow,,8,Good
+1013,Sneha,29,IT,Delhi,59000,,Excellent
+1014,Vikas,26,,Jaipur,51000,2,Good
+1015,Meena,33,HR,,65000,9,Excellent
